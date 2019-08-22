@@ -53,7 +53,7 @@ func main() {
 			c.Stdout = os.Stdout
 			c.Stdin = os.Stdin
 
-			//err = c.Run()
+			err = c.Run()
 			if err != nil {
 				log.Fatalf("Execution error: %s\n", err)
 			}
