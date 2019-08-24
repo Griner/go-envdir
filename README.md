@@ -1,4 +1,4 @@
-# gocopy
+# go-envdir
 
 Homework #13 OS
 
